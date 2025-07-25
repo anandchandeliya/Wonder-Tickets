@@ -68,6 +68,3 @@
 
 ---
 
-## 📜 License
-
-MIT – feel free to fork and build on top of it!
