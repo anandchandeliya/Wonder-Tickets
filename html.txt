@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>WonderTickets</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; margin-top: 10%; background: #f7f7f7; }
+    h1 { color: #2e86de; }
+    p { font-size: 18px; }
+    button { background-color: #2e86de; color: white; padding: 10px 20px; border: none; border-radius: 5px; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to WonderTickets</h1>
+  <p>Book your favorite events quickly and securely!</p>
+  <button onclick="alert('This is just a demo!')">Book Now</button>
+</body>
+</html>
